@@ -1,7 +1,7 @@
 ![logo](https://github.com/rgraves0/rgraves0/blob/main/panoramic-ge7280f4c9_1920.png)
 <h1 align="center">Hi 👋, I'm Ryan Graves</h1>
 <h3 align="center">A passionate frontend developer from Myanmar</h3>
-<img align="right" alt="cdoing" width="400" src="https://miro.medium.com/max/1360/0*7Q3yvSIv_t0ioJ-Z.gif">
+<img align="right" alt="cdoing" width="400" src="https://media.tenor.com/VvYRglhVQEMAAAAd/robot-hi.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rgraves0&label=Profile%20views&color=0e75b6&style=flat" alt="rgraves0" /> </p>
 
 - 🔭 I’m currently working on **Python**
