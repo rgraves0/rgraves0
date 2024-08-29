@@ -1,6 +1,6 @@
 ![logo](https://github.com/rgraves0/rgraves0/blob/main/bogdan-mb0sco-coffeeanim.gif)
 <h1 align="center">Hi 👋, I'm Ryan</h1>
-<h3 align="center">I am currently a student studying 🙄🥴</h3>
+<h3 align="center">I am currently Freelancer 🙄🥴</h3>
 <img align="right" alt="cdoing" width="400" src="https://cdn.dribbble.com/users/4055494/screenshots/15215756/media/d2b66c4ca0192aa26d103448b3d1518b.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kchocho&label=Profile%20views&color=0e75b6&style=flat" alt="kchocho" /> </p>
 
@@ -8,7 +8,7 @@
 
 - 👯 I’m looking to collaborate on **my team**
 
-- 🤝 I’m looking for help with **school**
+- 🤝 I’m looking for help with **My Old Project**
 
 - 💬 Ask me about **🙏💙❤️😍🙌**
 
